@@ -23,5 +23,4 @@ import java.io.Serializable;
         private String designation;
         private double prix;
         private int quantite;
-
 }
